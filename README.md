@@ -1,6 +1,7 @@
 [![NPM version](https://badge.fury.io/js/scatter-plugin-all.png)](http://badge.fury.io/js/scatter-plugin-all)
-[![Dependency Status](https://gemnasium.com/mariocasciaro/scatter-plugin-config.png)](https://gemnasium.com/mariocasciaro/scatter-plugin-config)
+[![Build Status](https://travis-ci.org/mariocasciaro/scatter-plugin-all.png)](https://travis-ci.org/mariocasciaro/scatter-plugin-all)
 [![Dependency Status](https://gemnasium.com/mariocasciaro/scatter-plugin-all.png)](https://gemnasium.com/mariocasciaro/scatter-plugin-all)
+
 
 # Synopsis
 
